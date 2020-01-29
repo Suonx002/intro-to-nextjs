@@ -63,7 +63,7 @@ var AboutPage = function AboutPage() {
 
 /***/ }),
 
-/***/ 2:
+/***/ 3:
 /*!***********************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fabout&absolutePagePath=C%3A%5CUsers%5CVuthy%5CDesktop%5Cnextjs%5Cintro-nextjs%5Cpages%5Cabout.js ***!
   \***********************************************************************************************************************************************/
@@ -86,5 +86,5 @@ module.exports = dll_ef0ff7c60362f24a921f;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[3,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=about.js.map
